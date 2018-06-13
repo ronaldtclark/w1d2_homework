@@ -12,3 +12,6 @@
 2. git checkout [branch-name]
 3. you can try different solutions to something, or have several people simultaneously work it out in different ways, then choose the best option and proceed from there.
 
+1. use git merge when there are two heads that both have useful code you would like to incorporate into the same file. It would be better to submit a pull request when only your section has something useful to add, and nothing to combine it with since the last commit.
+2. git push origin master
+
